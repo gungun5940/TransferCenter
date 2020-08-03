@@ -136,7 +136,7 @@
     </style>
 
 </head>
-
+        
 <body id="jsn-master" class="jsn-textstyle-custom jsn-color-blue jsn-direction-ltr jsn-desktop jsn-joomla-25  jsn-com-content jsn-view-featured jsn-itemid-101 jsn-homepage">
     <a name="top" id="top"></a>
     <div id="jsn-page">
@@ -225,17 +225,17 @@
                                                                 แบบสำรวจ </span>
                                                         </a>
                                                         <ul>
-                                                            <li class="parent first"><a href="javascript: void(0)">
+                                                            <li class=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSeX3c2Fm32w6JSBIokldyp4My73xvdJpWUFl77aB9k649iV8w/viewform?fbclid=IwAR2jWZF125se84hX86lU-PYuc_vjicnG9bycE3-qh15KhEeL36rk1Zf4c-I"target="_blank">
                                                                     <span>
                                                                         กลุ่มอุตสาหกรรม </span>
                                                                 </a>
                                                             </li>
-                                                            <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-academics" target="_blank">
+                                                            <li> <a class="" href="https://docs.google.com/forms/d/e/1FAIpQLSd4RttzHVzYTm6mXuRVF8msXmP7bc81_mEKd0ydHHx2AWnXZg/viewform?fbclid=IwAR3okWdylRXc1IYiWXHe7LHev0d1CDmBVSrHNo5M2IvSuedyC7kKmJ8Ww1M" target="_blank">
                                                                     <span>
                                                                         กลุ่มทั่วไป </span>
                                                                 </a>
                                                             </li>
-                                                            <li> <a class="" href="https://intranet.pn.psu.ac.th/eval/" target="_blank">
+                                                            <li> <a class="" href="https://docs.google.com/forms/d/e/1FAIpQLSccEUZ5jUFaL2f_ivw_bFZSLaoZnwoxz3Gbgaw8Ssmf8HTPtQ/viewform?fbclid=IwAR2ckkXen2mZACc0NJQLYPQ89Ipq24FoFV1jguGAVvRKqO7jJbb-24nZzHU" target="_blank">
                                                                     <span>
                                                                         กลุ่มการศึกษา </span>
                                                                 </a>
