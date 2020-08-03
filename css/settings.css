@@ -317,8 +317,8 @@ website:   	http://www.themepunch.com
 .tp-rightarrow.square-old								{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/arrow_right2.png) no-Repeat top left;	width:12px;	height:17px;   float:left;	margin-left:0px; margin-top:-9px;}
 
 
-.tp-leftarrow.large										{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_left.png) no-Repeat top left;	width:40px;	height:40px;  margin-left:20px; margin-top:-20px; }
-.tp-rightarrow.large									{	z-index:100;cursor:pointer; position:relative;	background:url(../assets/large_right.png) no-Repeat top left;	width:40px;	height:40px;  margin-left:-20px; margin-top:-20px; }
+.tp-leftarrow.large										{	z-index:100;cursor:pointer; position:relative;	background:url(../img/fancy_left.png) no-Repeat top left;	width:40px;	height:40px;  margin-left:20px; margin-top:-20px; }
+.tp-rightarrow.large									{	z-index:100;cursor:pointer; position:relative;	background:url(../img/fancy_right.png) no-Repeat top left;	width:40px;	height:40px;  margin-left:-20px; margin-top:-20px; }
 
 .tp-leftarrow:hover,
 .tp-rightarrow:hover 									{	background-position:bottom left; }

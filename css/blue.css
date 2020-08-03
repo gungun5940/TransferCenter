@@ -16,8 +16,12 @@ a {
 	color: #8b0000;
 }
 #jsn-master {
-	background: #FFF url(../../images/colors/blue/bg-main.jpg) no-repeat 50% top fixed;
-  /*-webkit-filter: grayscale(100%);
+	background: #FFF url(../img/bg3.jpg) no-repeat;
+	-webkit-background-size: cover;
+  	background-size: cover;
+ 	width: 100vw;
+ 	height: 100vh;
+  /* -webkit-filter: grayscale(100%);
   -moz-filter: grayscale(100%);
   -ms-filter: grayscale(100%);
   -o-filter: grayscale(100%);
