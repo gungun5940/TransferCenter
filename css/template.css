@@ -2315,11 +2315,12 @@ form#login-form .icon-arrow-right {
 #bg_footer {
   width: 1200px;
   height:180px;
-  background: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  /* background: white; */
   /* filter: blur(3px); */
   /* background: url('../img/hs_footer.png') bottom no-repeat; */
-  -webkit-background-size: cover;
-	background-size: cover;
+  /* -webkit-background-size: cover; */
+	/* background-size: cover; */
 }
 
 
