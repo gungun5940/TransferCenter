@@ -165,122 +165,122 @@
         }
     </style>
     <div id="jsn-header">
-            <div id="jsn-header-inner" class="row-fluid">
+        <div id="jsn-header-inner" class="row-fluid">
 
-                <div id="jsn-hs-header" class="pull-left">
-                    <div class=" jsn-modulecontainer">
-                        <div class="jsn-modulecontainer_inner">
-                            <div class="jsn-modulecontent">
-                                <div>
-                                    <div><img src="img/header.png" alt="hs header" /></div>
-                                </div>
-                                <div class="clearbreak"></div>
+            <div id="jsn-hs-header" class="pull-left">
+                <div class=" jsn-modulecontainer">
+                    <div class="jsn-modulecontainer_inner">
+                        <div class="jsn-modulecontent">
+                            <div>
+                                <div><img src="img/header.png" alt="hs header" /></div>
                             </div>
+                            <div class="clearbreak"></div>
                         </div>
                     </div>
                 </div>
+            </div>
 
-                <div id="jsn-logo" class="pull-left"></div>
-                <div id="jsn-headerright-wrapper" class="pull-right">
-                    <div id="jsn-headerright" class="pull-right">
-                    </div>
-                    <div class="clearafter"></div>
-                    <div id="jsn-menu">
-                        <div id="jsn-menu-inner-1">
-                            <div id="jsn-menu-inner">
-                                <div id="jsn-pos-mainmenu">
-                                    <div class="_menu jsn-modulecontainer">
-                                        <div class="jsn-modulecontainer_inner">
-                                            <div class="jsn-modulecontent"><span class="jsn-menu-toggle">Menu</span>
-                                                <ul class="menu-mainmenu menu-iconmenu">
-                                                    <li class="current active first"><a class="current" href="/th/">
-                                                            <span><i class="fas fa-home"></i> </span>
-                                                        </a></li>
-                                                    <li class="parent"><a href="javascript: void(0)">
-                                                            <span>เกี่ยวกับศุนย์ฯ </span>
-                                                        </a>
-                                                        <span class="jsn-menu-toggle"></span>
-                                                        <ul>
-                                                            <li class="first"><a href="/th/index.php/abouthuso/history-huso">
-                                                                    <span>
-                                                                        ประวัติคณะ </span>
-                                                                </a></li>
-                                                            <li><a href="/th/index.php/abouthuso/vision-mission-huso">
-                                                                    <span>
-                                                                        วิสัยทัศน์/พันธกิจ </span>
-                                                                </a></li>
+            <div id="jsn-logo" class="pull-left"></div>
+            <div id="jsn-headerright-wrapper" class="pull-right">
+                <div id="jsn-headerright" class="pull-right">
+                </div>
+                <div class="clearafter"></div>
+                <div id="jsn-menu">
+                    <div id="jsn-menu-inner-1">
+                        <div id="jsn-menu-inner">
+                            <div id="jsn-pos-mainmenu">
+                                <div class="_menu jsn-modulecontainer">
+                                    <div class="jsn-modulecontainer_inner">
+                                        <div class="jsn-modulecontent"><span class="jsn-menu-toggle">Menu</span>
+                                            <ul class="menu-mainmenu menu-iconmenu">
+                                                <li class="current active first"><a class="current">
+                                                        <span><i class="fas fa-home"></i> </span>
+                                                    </a></li>
+                                                <li class="parent"><a href="javascript: void(0)">
+                                                        <span>เกี่ยวกับศุนย์ฯ </span>
+                                                    </a>
+                                                    <span class="jsn-menu-toggle"></span>
+                                                    <ul>
+                                                        <li class="first"><a href="/th/index.php/abouthuso/history-huso">
+                                                                <span>
+                                                                    ประวัติคณะ </span>
+                                                            </a></li>
+                                                        <li><a href="/th/index.php/abouthuso/vision-mission-huso">
+                                                                <span>
+                                                                    วิสัยทัศน์/พันธกิจ </span>
+                                                            </a></li>
 
-                                                            <li><a href="/th/index.php/abouthuso/board">
-                                                                    <span>
-                                                                        ทีมบริหารศูนย์ฯ </span>
-                                                                </a></li>
-                                                            <li><a href="/th/index.php/abouthuso/board-of-directors">
-                                                                    <span>
-                                                                        โครงสร้างองค์กร </span>
-                                                                </a></li>
-                                                            <li><a href="/th/index.php/abouthuso/2015-11-09-15-05-54">
-                                                                    <span>
-                                                                        โครงสร้างการบริหารศูนย์ </span>
-                                                                </a></li>
-                                                            <li> <a class="" href="http://huso.pn.psu.ac.th/personnel/" target="_blank">
-                                                                    <span>
-                                                                        บุคลากรศุนย์ฯ </span>
-                                                                </a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li class="parent"> <a class="" href="http://clpd.psu.ac.th/edubachelor/index.html" target="_blank">
-                                                            <span>
-                                                                หลักสูตรที่เปิดสอน/อบรม </span>
-                                                        </a>
-                                                    </li>
-                                                    <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-academics" target="_blank">
-                                                            <span>
-                                                                หน่วยงาน </span>
-                                                        </a>
-                                                    </li>
-                                                    <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-psu-tpsf/" target="_blank">
-                                                            <span>
-                                                                เครื่องมือที่ให้บริการ </span>
-                                                        </a>
-                                                    </li>
-                                                    <li class="last"><a href="/th/index.php/contact">
-                                                            <span>
-                                                                แบบสำรวจ </span>
-                                                        </a>
-                                                        <ul>
-                                                            <li class="parent first"><a href="javascript: void(0)">
-                                                                    <span>
-                                                                        กลุ่มอุตสาหกรรม </span>
-                                                                </a>
-                                                            </li>
-                                                            <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-academics" target="_blank">
-                                                                    <span>
-                                                                        กลุ่มทั่วไป </span>
-                                                                </a>
-                                                            </li>
-                                                            <li> <a class="" href="https://intranet.pn.psu.ac.th/eval/" target="_blank">
-                                                                    <span>
-                                                                        กลุ่มการศึกษา </span>
-                                                                </a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                    <li><a href="/th/index.php/mis-huso">
-                                                            <span>
-                                                                สมัครสมาชิก </span>
-                                                        </a></li>
-                                                </ul>
-                                                <div class="clearbreak"></div>
-                                            </div>
+                                                        <li><a href="/th/index.php/abouthuso/board">
+                                                                <span>
+                                                                    ทีมบริหารศูนย์ฯ </span>
+                                                            </a></li>
+                                                        <li><a href="/th/index.php/abouthuso/board-of-directors">
+                                                                <span>
+                                                                    โครงสร้างองค์กร </span>
+                                                            </a></li>
+                                                        <li><a href="/th/index.php/abouthuso/2015-11-09-15-05-54">
+                                                                <span>
+                                                                    โครงสร้างการบริหารศูนย์ </span>
+                                                            </a></li>
+                                                        <li> <a class="" href="http://huso.pn.psu.ac.th/personnel/" target="_blank">
+                                                                <span>
+                                                                    บุคลากรศุนย์ฯ </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="parent"> <a class="" href="http://clpd.psu.ac.th/edubachelor/index.html" target="_blank">
+                                                        <span>
+                                                            หลักสูตรที่เปิดสอน/อบรม </span>
+                                                    </a>
+                                                </li>
+                                                <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-academics" target="_blank">
+                                                        <span>
+                                                            หน่วยงาน </span>
+                                                    </a>
+                                                </li>
+                                                <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-psu-tpsf/" target="_blank">
+                                                        <span>
+                                                            เครื่องมือที่ให้บริการ </span>
+                                                    </a>
+                                                </li>
+                                                <li class="last"><a href="/th/index.php/contact">
+                                                        <span>
+                                                            แบบสำรวจ </span>
+                                                    </a>
+                                                    <ul>
+                                                        <li class=""><a href="https://docs.google.com/forms/d/e/1FAIpQLSeX3c2Fm32w6JSBIokldyp4My73xvdJpWUFl77aB9k649iV8w/viewform?fbclid=IwAR2jWZF125se84hX86lU-PYuc_vjicnG9bycE3-qh15KhEeL36rk1Zf4c-I" target="_blank">
+                                                                <span>
+                                                                    กลุ่มอุตสาหกรรม </span>
+                                                            </a>
+                                                        </li>
+                                                        <li> <a class="" href="https://docs.google.com/forms/d/e/1FAIpQLSd4RttzHVzYTm6mXuRVF8msXmP7bc81_mEKd0ydHHx2AWnXZg/viewform?fbclid=IwAR3okWdylRXc1IYiWXHe7LHev0d1CDmBVSrHNo5M2IvSuedyC7kKmJ8Ww1M" target="_blank">
+                                                                <span>
+                                                                    กลุ่มทั่วไป </span>
+                                                            </a>
+                                                        </li>
+                                                        <li> <a class="" href="https://docs.google.com/forms/d/e/1FAIpQLSccEUZ5jUFaL2f_ivw_bFZSLaoZnwoxz3Gbgaw8Ssmf8HTPtQ/viewform?fbclid=IwAR2ckkXen2mZACc0NJQLYPQ89Ipq24FoFV1jguGAVvRKqO7jJbb-24nZzHU" target="_blank">
+                                                                <span>
+                                                                    กลุ่มการศึกษา </span>
+                                                            </a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="/th/index.php/mis-huso">
+                                                        <span>
+                                                            สมัครสมาชิก </span>
+                                                    </a></li>
+                                            </ul>
+                                            <div class="clearbreak"></div>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="clearbreak"></div>
                             </div>
+                            <div class="clearbreak"></div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 </head>
