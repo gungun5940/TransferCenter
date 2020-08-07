@@ -32,7 +32,6 @@
         #jsn-page {
             min-width: 1200px;
         }
-
         #jsn-menu.jsn-menu-sticky,
         #jsn-pos-topbar,
         #jsn-header-inner,
