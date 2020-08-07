@@ -201,45 +201,45 @@
                                                     </a>
                                                     <span class="jsn-menu-toggle"></span>
                                                     <ul>
-                                                        <li class="first"><a href="/th/index.php/abouthuso/history-huso">
+                                                        <li class="first"><a href="">
                                                                 <span>
                                                                     ประวัติคณะ </span>
                                                             </a></li>
-                                                        <li><a href="/th/index.php/abouthuso/vision-mission-huso">
+                                                        <li><a href="">
                                                                 <span>
                                                                     วิสัยทัศน์/พันธกิจ </span>
                                                             </a></li>
 
-                                                        <li><a href="/th/index.php/abouthuso/board">
+                                                        <li><a href="">
                                                                 <span>
                                                                     ทีมบริหารศูนย์ฯ </span>
                                                             </a></li>
-                                                        <li><a href="/th/index.php/abouthuso/board-of-directors">
+                                                        <li><a href="">
                                                                 <span>
                                                                     โครงสร้างองค์กร </span>
                                                             </a></li>
-                                                        <li><a href="/th/index.php/abouthuso/2015-11-09-15-05-54">
+                                                        <li><a href="">
                                                                 <span>
                                                                     โครงสร้างการบริหารศูนย์ </span>
                                                             </a></li>
-                                                        <li> <a class="" href="http://huso.pn.psu.ac.th/personnel/" target="_blank">
+                                                        <li> <a class="" href="" target="_blank">
                                                                 <span>
                                                                     บุคลากรศุนย์ฯ </span>
                                                             </a>
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li class="parent"> <a class="" href="http://clpd.psu.ac.th/edubachelor/index.html" target="_blank">
+                                                <li class="parent"> <a class="" href="" target="_blank">
                                                         <span>
                                                             หลักสูตรที่เปิดสอน/อบรม </span>
                                                     </a>
                                                 </li>
-                                                <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-academics" target="_blank">
+                                                <li> <a class="" href="" target="_blank">
                                                         <span>
                                                             หน่วยงาน </span>
                                                     </a>
                                                 </li>
-                                                <li> <a class="" href="https://sites.google.com/psu.ac.th/huso-psu-tpsf/" target="_blank">
+                                                <li> <a class="" href="" target="_blank">
                                                         <span>
                                                             เครื่องมือที่ให้บริการ </span>
                                                     </a>
@@ -266,7 +266,7 @@
                                                         </li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="/th/index.php/mis-huso">
+                                                <li><a href="">
                                                         <span>
                                                             สมัครสมาชิก </span>
                                                     </a></li>
