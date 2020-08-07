@@ -1,7 +1,6 @@
 <?php
 include('header.php');
 ?>
-
 <body id="jsn-master" class="jsn-textstyle-custom jsn-color-blue jsn-direction-ltr jsn-desktop jsn-joomla-25  jsn-com-content jsn-view-featured jsn-itemid-101 jsn-homepage">
     <a name="top" id="top"></a>
     <div id="jsn-page">
