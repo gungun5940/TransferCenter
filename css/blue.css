@@ -43,7 +43,7 @@ a {
 }
 /* =============== LAYOUT - FOOTER AREA =============== */
 #jsn-footer {
-	background: #54A1CD url(../../images/colors/blue/bg-master.png);
+	/* background:  url(); */
 	color: #EBF9FC;
 }
 #jsn-content-bottom + #jsn-footer #jsn-footer-inner {

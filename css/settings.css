@@ -27,6 +27,7 @@ website:   	http://www.themepunch.com
 .rev_slider{
 	position:relative;
 	overflow:hidden;
+	border-radius: 25px;
 }
 
 

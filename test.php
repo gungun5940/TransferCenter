@@ -8,18 +8,25 @@
     <title>กองพัฒนานักศึษา มหาวิทยาลัยราชภัฏลำปาง</title>
 
     <!-- Styles -->
-    <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,800" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Mitr:100,300" rel="stylesheet">
-    <!-- Google web fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"><!-- font-awesome -->
-    <link href="js/dropdown-menu/dropdown-menu.css" rel="stylesheet" type="text/css"><!-- dropdown-menu -->
-    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"><!-- Bootstrap -->
-    <link href="js/fancybox/jquery.fancybox.css" rel="stylesheet" type="text/css"><!-- Fancybox -->
-    <link href="js/audioplayer/audioplayer.css" rel="stylesheet" type="text/css"><!-- Audioplayer -->
-    <link href="style.css" rel="stylesheet" type="text/css"><!-- theme styles -->
-
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/bootstrap-frontend.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="css/system.css" type="text/css" />
+    <link rel="stylesheet" href="css/general.css" type="text/css" />
+    <link rel="stylesheet" href="css/template.css" type="text/css" />
+    <link rel="stylesheet" href="css/template_pro.css" type="text/css" />
+    <link rel="stylesheet" href="css/blue.css" type="text/css" />
+    <link rel="stylesheet" href="css/custom.css" type="text/css" />
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />
+    <link rel="stylesheet" href="css/style.css" type="text/css" />
+    <link rel="stylesheet" href="css/settings.css" type="text/css" />
+    <link rel="stylesheet" href="css/captions.css" type="text/css" />
+    <link href="fontawesome/css/all.css" rel="stylesheet">
+    <script src="js/theme.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js?app=revolution_slider" type="text/javascript"></script>
+    <script src="js/plugins.min.js" type="text/javascript"></script>
+    <script src="js/revolution.min.js" type="text/javascript"></script>
+    <script src="js/facybox.css" type="text/css"></script>
+    <script src="js/facybox.js" type="text/javascript"></script>
 </head>
 
 <body role="document">
