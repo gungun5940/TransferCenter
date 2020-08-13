@@ -1,6 +1,7 @@
 <?php
 include('header.php');
 ?>
+
 <body id="jsn-master" class="jsn-textstyle-custom jsn-color-blue jsn-direction-ltr jsn-desktop jsn-joomla-25  jsn-com-content jsn-view-featured jsn-itemid-101 jsn-homepage">
     <a name="top" id="top"></a>
     <div id="jsn-page">
@@ -97,7 +98,7 @@ include('header.php');
 
                 <div class="row no-gutter">
                     <!-- row -->
-                    <div class="col-lg-4 col-md-4 col-xs-12" style="margin-left: 10px";>
+                    <div class="col-lg-4 col-md-4 col-xs-12" style="margin-left: 10px" ;>
                         <!-- misc wrapper -->
 
                         <div class="col-padded col-shaded">
@@ -157,7 +158,9 @@ include('header.php');
                                                             <div class="recent-news-text">
                                                                 <h1 class="title-median"><a href="#" title="ทดสอบ">[<strong>ข่าวประชาสัมพันธ์</strong>] ทดสอบ1</a></h1>
                                                                 <div class="recent-news-meta">
-                                                                    <div class="recent-news-date">31 กรกฎาคม 2563</div>
+                                                                    <div class="recent-news-date">31 กรกฎาคม 2563
+
+                                                                    </div>
                                                                 </div>
                                                                 <a href="#" class="moretag" title="read more">อ่านรายละเอียด</a>
                                             </p>
@@ -194,36 +197,36 @@ include('header.php');
             </div><!-- container end -->
 
         </div><!-- content wrapper end -->
-    
 
 
-    <?php
-    include('footer.php');
-    ?>
-    <script src='js/core/main.js'></script>
-    <script src='js/daygrid/main.js'></script>
-    <script src='js/bootstrap/main.js'></script>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var calendarEl = document.getElementById('calendar');
-            var calendar = new FullCalendar.Calendar(calendarEl, {
-                timeZone: 'local',
-                plugins: ['dayGrid'],
-                locale: 'th',
-                events: 'calendar.php',
-                header: {
-                    left: 'today',
-                    center: 'title',
-                    right: 'prev,next'
-                },
-                buttonText: {
-                    today: 'วันนี้',
-                    month: 'เดือน',
-                    week: 'สัปดาห์',
-                    day: 'วัน',
-                    list: 'รายการ'
-                }
+
+        <?php
+        include('footer.php');
+        ?>
+        <script src='js/core/main.js'></script>
+        <script src='js/daygrid/main.js'></script>
+        <script src='js/bootstrap/main.js'></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                var calendarEl = document.getElementById('calendar');
+                var calendar = new FullCalendar.Calendar(calendarEl, {
+                    timeZone: 'local',
+                    plugins: ['dayGrid'],
+                    locale: 'th',
+                    events: 'calendar.php',
+                    header: {
+                        left: 'today',
+                        center: 'title',
+                        right: 'prev,next'
+                    },
+                    buttonText: {
+                        today: 'วันนี้',
+                        month: 'เดือน',
+                        week: 'สัปดาห์',
+                        day: 'วัน',
+                        list: 'รายการ'
+                    }
+                });
+                calendar.render();
             });
-            calendar.render();
-        });
-    </script>
+        </script>
